@@ -3,7 +3,8 @@
 
 
 This repo containes codes for NATLE which is a noise-aware texture-preserving low-light image enhancement method. Paper can be found on https://arxiv.org/abs/2009.01385.
-Please use the following reference if you use NATLE:
+
+Please cite the following reference if you use NATLE:
 ```sh
 @inproceedings{azizi2020noise,
   title={Noise-aware texture-preserving low-light enhancement},
