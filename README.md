@@ -21,4 +21,4 @@ Please cite the following reference if you use NATLE:
 - Clone the repo and `cd` to it.
 - Put low-light input images in the `input` folder. 
 - Run `NATLE.m`.
-- Find the normal-light outpu images in the `output` folder.
+- Find the normal-light output images in the `output` folder.
